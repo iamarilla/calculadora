@@ -5,7 +5,7 @@ from PyQt6.QtWidgets import QApplication
 from temas import TEMAS
 from ventana import Calculadora
 
-
+# Base de estilos común a ambos temas
 def main():
     app = QApplication(sys.argv)
     app.setStyleSheet(TEMAS["oscuro"])
