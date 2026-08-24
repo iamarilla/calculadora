@@ -23,7 +23,7 @@ def normalizar(expr: str) -> str:
             .replace("−", "-")
             .replace("^", "**"))
 
-
+# Comentario de prueba
 def evaluar(expresion: str, modo_grados: bool):
     """Devuelve (resultado, None) o (None, mensaje_error)."""
     try:

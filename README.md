@@ -46,3 +46,5 @@ calculadora/
 ├── temas.py       # Temas claro y oscuro
 └── icono.py       # Generación programática del ícono
 ```
+
+Modificaciòn del archivo de prueba
